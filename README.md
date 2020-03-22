@@ -6,6 +6,9 @@ An application in Django where users can create posts, edit and delete them.
 The homepage lists all of them, each one has a detail view, and everything is
 styled with some CSS.
 
+## Demo
+
+A demo of the app is available [here](http://djangoblogapp4.eu.pythonanywhere.com/)
 ## Usage
 
 Feel free to use it as you want, but everything comes with no guaranties.
